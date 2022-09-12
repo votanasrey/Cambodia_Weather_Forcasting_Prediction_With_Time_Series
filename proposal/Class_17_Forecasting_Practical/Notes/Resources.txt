@@ -1,0 +1,5 @@
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://www.baeldung.com/cs/acf-pacf-plots-arma-modeling
+https://people.duke.edu/~rnau/411arim.htm
+https://otexts.com/fpp2/arima-r.html
+https://online.stat.psu.edu/stat510/

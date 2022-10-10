@@ -1,0 +1,11 @@
+No data in 2018
+No data in 2019
+
+In 2020 data files missing from 01-08 month
+
+Water content from first till fourth month in 2021 is the same (0.7186)
+Most water content data in sixth month in 2021 is negative and the same value (-0.4737)
+all water content in 07-2021, 10-2021, 11-2021 and 12-2021 is the same value (-0.4737)
+most water content in 09-2021 is negative
+
+all water content in 2022  is the same value (-0.4737)
